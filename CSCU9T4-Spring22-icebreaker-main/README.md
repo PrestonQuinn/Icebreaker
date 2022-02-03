@@ -10,4 +10,5 @@ An Icebreaker task that introduces Git and provides the material to attempt the 
  6. Get chocolate (if you are the first one to correctly finish points 3, 4, and 5 above
 
 # The members of the module are:
- - Saemundur Oskar Haraldsson (Lecturer)
+ - Saemundur Oskar Haraldsson (Lecturer) 
+ - Preston Quinn (Student)
